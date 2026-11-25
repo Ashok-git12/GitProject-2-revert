@@ -4,8 +4,6 @@ paublic class App {
 		system.out.println(" welcome to my cal application);
 		system.out.println("addition is :"+(a+b));
 	        system.out.println("subtraction is":+(a-b));
-	        system.out.println("maultiply is ":(a*b));
-		system.out.prontln("division is ":(a%b));
 
 	}
 
